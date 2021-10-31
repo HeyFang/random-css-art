@@ -1,7 +1,8 @@
 *{
   margin: 0;
-  padiing: 0;
+  padding: 0;
   background: #F3AC3C;
+  margin-left: 100px;
 }
 div.container{
   display: flex;
