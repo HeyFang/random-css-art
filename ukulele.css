@@ -2,12 +2,19 @@
   margin: 0;
   padding: 0;
   background: #F3AC3C;
-  margin-left: 100px;
+}
+h1{
+  text-transform: uppercase;
+  color: #1A4341;
+  font-size: 4em;
+  font-family: arial;
+  position: fixed;
+  left: 40%;
+  top: 30px;
 }
 div.container{
-  display: flex;
-  justify-content: center;
-  align-items: center;
+  position: absolute;
+  left: 150px;
 }
 #Bcir{
   width: 250px;
